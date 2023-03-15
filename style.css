@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    background-color: green;
+    text-align: center;
+  }
+  
+  h1, p, button {
+    color: white;
+  }
+  
+  button {
+    color: black;
+  }
+  
+  #resultados {
+    color: black;
+  }
+  
